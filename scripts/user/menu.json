@@ -1,0 +1,50 @@
+﻿{
+  "information": {
+    "modulo-numero": "MÓDULO 2",
+    "modulo-resumido": "M2",
+    "modulo-nome": "Legislação de trânsito aplicada à atividade do policial rodoviário federal"
+  },
+  "configuration": {
+    "target": "#menu_item_list",
+    "start-level": 0,
+    "max-level": 7,
+    "min-level": 0,
+    "prefix-name": "pages/capitulo_"
+  },
+  "pages": [
+    {
+      "placeholder": "Apresentação",
+      "url": "pages/capitulo_0.html"
+    },
+    {
+      "placeholder": "Unidade 1",
+      "url": "pages/capitulo_1.html"
+    },
+    {
+      "placeholder": "Unidade 2",
+      "url": "pages/capitulo_2.html"
+    },
+    {
+      "placeholder": "Unidade 3",
+      "url": "pages/capitulo_3.html"
+    },
+    {
+      "placeholder": "Unidade 4",
+      "url": "pages/capitulo_4.html"
+    },
+    {
+      "placeholder": "Encerramento do módulo",
+      "url": "pages/capitulo_5.html"
+    }
+    ,
+    {
+      "placeholder": "Realize as atividades",
+      "url": "pages/capitulo_6.html"
+    }
+    ,
+    {
+      "placeholder": "Referências",
+      "url": "pages/capitulo_7.html"
+    }
+  ]
+}
